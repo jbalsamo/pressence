@@ -1,0 +1,14 @@
+{
+    "name": "pressence",
+    "version": "1.0.0",
+    "description": "Log management system",
+    "main": "index.js",
+    "scripts": {
+        "test": "test.js"
+    },
+    "author": "Joseph Balsamo",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
