@@ -4,6 +4,7 @@
     "description": "Log management system",
     "main": "index.js",
     "scripts": {
+        "run": "node server.js",
         "test": "test.js"
     },
     "author": "Joseph Balsamo",
